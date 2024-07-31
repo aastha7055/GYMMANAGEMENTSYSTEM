@@ -1,7 +1,7 @@
 # GYM-MANAGEMENT-SYSTEM
 
 ### ABOUT THE PROJECT
-Gym Management System is an administrative interface for the records of the gym, gym members, gym trainers, and payments.
+The Gym Management System is an administrative interface for the records of the gym, gym members, gym trainers, and payments.
 
 ### OBJECTIVES
 1. Add different gyms.
@@ -26,8 +26,7 @@ Gym Management System is an administrative interface for the records of the gym,
 - clone this repository into xampp/htdocs
 - read [gym.sql](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/gym.sql) file to setup the database
 
-### ENTITY RELATIONSHIP DIAGRAM
-![ER Diagram](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/SCREENSHOTS/ER%20Diagram.jpg)
+
 
 ### A GLIMPSE OF SYSTEM
 ***
@@ -80,16 +79,8 @@ Gym Management System is an administrative interface for the records of the gym,
 
 ![Manage Trainer](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/SCREENSHOTS/Manage%20Trainer.jpg)
 
-***
-
-### Project Report
-- word document - TO VIEW [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/Gym%20Management%20System%20Report.docx) - TO DOWNLOAD [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/raw/master/Gym%20Management%20System%20Report.docx)
-- pdf document - TO VIEW [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/Gym%20Management%20System%20Report.pdf) - TO DOWNLOAD [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/raw/master/Gym%20Management%20System%20Report.pdf)
 
 ### CONTRIBUTING
 
-Please read [CONTRIBUTING](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Feel free to open issues or submit pull requests to enhance the project. Contributions are welcome!
 
-### LICENSE
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/LICENSE) file for details
