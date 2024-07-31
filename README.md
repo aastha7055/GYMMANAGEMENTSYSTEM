@@ -27,12 +27,6 @@ The Gym Management System is an administrative interface for the records of the 
 - read [gym.sql](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/gym.sql) file to setup the database
 
 
-
-### A GLIMPSE OF SYSTEM
-***
-![Glimpse](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/SCREENSHOTS/Gym%20Giffy.gif)
-***
-
 ### SCREENSHOTS
 ***
 * INDEX PAGE
